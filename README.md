@@ -10,10 +10,10 @@ Hello there! 👋 I'm Muhammad Arsalan, a Computer Engineer passionate about cod
 
 ## 🔧 Skills
 
-- Programming Languages: C, C++, Python, Java, PHP
+- Programming Languages: C, Python, Java, PHP
 - Web Development: HTML, CSS, JavaScript
 - Software Development: Git, Version Control
-- Embedded Systems: Arduino, Raspberry Pi
+- Embedded Systems: Arduino, Raspberry Pi, Nvidia Nano Jetson
 - Backend Development: Laravel, CRUD APIs, User/Admin Login and Register APIs
 
 ## 🌐 Connect with Me
