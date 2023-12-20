@@ -18,6 +18,6 @@ Hello there! 👋 I'm Muhammad Arsalan, a Computer Engineer passionate about cod
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Muhammad Arsalan]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/muhammad-arsalan-2a0096a3/))
+- LinkedIn: https://www.linkedin.com/in/muhammad-arsalan-2a0096a3/
 
 Let's connect and collaborate on exciting projects! 🚀 Thank you for visiting my GitHub profile!
