@@ -46,9 +46,9 @@ Claude Code, Cursor, VS Code, Jira
 
 ## 💼 Professional Experience
 
-### Software Engineer — Softpers
+### Software Engineer - Softpers
 
-**Sep 2025 – Present**
+**Sep 2025 - Present**
 
 Working on production SaaS products across aviation, returns management, and roofing technology.
 
@@ -60,18 +60,18 @@ Working on production SaaS products across aviation, returns management, and roo
 * Built integration services connecting external measurement and supplier platforms.
 * Worked across frontend, backend, infrastructure, integrations, and production debugging.
 
-### Software Engineer — Devflovv
+### Software Engineer - Devflovv
 
-**Mar 2025 – Sep 2025**
+**Mar 2025 - Sep 2025**
 
 * Built production applications using React, Next.js, Node.js, Express, PostgreSQL, and Django.
 * Developed REST APIs, authentication systems, database schemas, and frontend integrations.
 * Worked on both JavaScript/TypeScript and Python-based applications.
 * Collaborated on production development, debugging, code reviews, and delivery.
 
-### Moodle Developer — FoneRep
+### Moodle Developer - FoneRep
 
-**Mar 2024 – Jan 2025**
+**Mar 2024 - Jan 2025**
 
 * Developed custom Moodle plugins and themes using PHP, JavaScript, and Moodle APIs.
 * Managed multiple Moodle deployments across concurrent client projects.
