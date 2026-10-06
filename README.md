@@ -2,69 +2,88 @@
 
 ## About Me
 
-Hello there! 👋 I'm Muhammad Arsalan, a Computer Engineer. This GitHub profile showcases my journey in Web Development.
+I'm a **Full-Stack Software Engineer** with **2.5+ years of professional experience** building and shipping production web applications.
 
-## 🔥 What I Do
-- Build **dynamic, responsive websites**.
-- Design and develop **full-stack projects** using modern frameworks like Laravel, React and Expressjs.
-- I have worked on custom Moodle development.
-- Trained in React and Expressjs in Knowledge Streams.
+My work spans **TypeScript, JavaScript, Python, React, Next.js, Node.js, FastAPI, PostgreSQL, and modern cloud platforms**, with a strong focus on backend architecture, API integrations, databases, and end-to-end product development.
 
-## **🧠 Knowledge Streams Experience**  
-At **Knowledge Streams**, I worked on developing and delivering a fully functional **Learning Management System (LMS)** as part of a collaborative team. This project enabled me to apply my expertise in modern web development frameworks and tools while solving real-world challenges.
+I've worked on production systems involving:
 
-### **🌟 Key Contributions & Achievements**
-1. **Frontend Development with React and TailwindCSS:**
-   - Designed and developed a responsive user interface with **React** and **TailwindCSS**.
-   - Created reusable, modular components for consistent styling and streamlined development.
-   - Ensured the platform's UI was intuitive and accessible across devices.
+* **Full-stack product development** with Next.js, React, Node.js, and FastAPI
+* **AI integrations** using LangChain, LLM APIs, and conversational agents
+* **REST APIs, webhooks, third-party integrations, and real-time systems**
+* **PostgreSQL database architecture, migrations, Prisma, Supabase, and Neon**
+* **Payment integrations** with Stripe
+* **Multi-tenant applications** and role-based systems
+* **Production debugging, deployment, and ongoing system support**
+* **Custom Moodle development**, including plugins, themes, and client-specific LMS solutions
 
-2. **Backend Development with Express.js:**
-   - Built a RESTful API using **Express.js** to handle key functionalities such as user authentication, course management, and progress tracking.
-   - Implemented **JWT-based authentication** for secure login and session management.
-   - Focused on scalable architecture to accommodate future features and enhancements.
+I've worked across the full development lifecycle — from understanding requirements and designing data models to implementation, integration, deployment, and production support.
 
-3. **Database Integration with PostgreSQL:**
-   - Designed and implemented database schemas using **PostgreSQL** for efficient storage and retrieval of user and course data.
-   - Used **Sequelize** ORM to interact with the PostgreSQL database, managing data operations and ensuring smooth integration with the backend.
-   - Optimized complex queries for performance, ensuring the system could scale efficiently as data grew.
+I also use **Claude Code and other AI development tools** in my workflow, while treating AI-generated output as something to review, test, and validate rather than blindly trust.
 
-4. **Testing and Debugging:**
-   - Tested APIs using **Postman** to ensure reliability and correctness.
-   - Debugged issues in both frontend and backend, delivering a polished final product.
+## 🚀 What I Work With
 
-5. **Collaboration and Version Control:**
-   - Worked closely with a team of developers, participating in regular code reviews and stand-up meetings.
-   - Managed code versioning and deployment workflows using **Git** and **GitHub**.
+**Languages:**
+JavaScript, TypeScript, Python, SQL, PHP
 
-## 🎓 Moodle Development Experience
-I have extensive experience working with **Moodle**, a powerful learning management system. My contributions include:
+**Frontend:**
+React, Next.js, Tailwind CSS
 
-- **Custom Plugin Development:**  
-Designed and developed custom plugins to extend Moodle's functionality based on client-specific requirements.
+**Backend:**
+Node.js, Express, FastAPI, Django
 
-- **Theme Customization:**  
-Created and modified Moodle themes to deliver visually appealing and user-friendly interfaces that align with client branding.
+**Databases:**
+PostgreSQL, Neon, Supabase, Prisma, MongoDB, MySQL, Firebase
 
-- **Feature Customization:**  
-Customized core Moodle features to cater to unique client workflows while maintaining upgrade compatibility.
+**AI & Integrations:**
+LangChain, LLM APIs, REST APIs, Webhooks, Stripe, GoHighLevel, Server-Sent Events
 
-- **Client-Specific Implementations:**  
-Worked on multiple Moodle instances to integrate third-party tools, enhance performance, and tailor the LMS to meet organizational needs.
+**Cloud & DevOps:**
+Vercel, Render, Railway, Git, CI/CD, Linux
 
-## 🔧 Skills
+**Development Tools:**
+Claude Code, Cursor, VS Code, Jira
 
-- Programming Languages: PHP, JavaScript
-- Web Development: HTML, CSS, Tailwind, React, Express, Moodle
-- Software Development: Git, Github, Jira, Trello, Slack
-- Embedded Systems: STM32, FPGA, Nvidia Nano Jetson
+## 💼 Professional Experience
+
+### Software Engineer — Softpers
+
+**Sep 2025 – Present**
+
+Working on production SaaS products across aviation, returns management, and roofing technology.
+
+* Built features end-to-end across Next.js, React, FastAPI, PostgreSQL, and Supabase.
+* Designed database schemas, migrations, and data architecture using Prisma and Neon.
+* Built real-time functionality using Server-Sent Events.
+* Integrated Stripe and multiple third-party APIs.
+* Developed AI-powered features and conversational agents using LangChain and LLM APIs.
+* Built integration services connecting external measurement and supplier platforms.
+* Worked across frontend, backend, infrastructure, integrations, and production debugging.
+
+### Software Engineer — Devflovv
+
+**Mar 2025 – Sep 2025**
+
+* Built production applications using React, Next.js, Node.js, Express, PostgreSQL, and Django.
+* Developed REST APIs, authentication systems, database schemas, and frontend integrations.
+* Worked on both JavaScript/TypeScript and Python-based applications.
+* Collaborated on production development, debugging, code reviews, and delivery.
+
+### Moodle Developer — FoneRep
+
+**Mar 2024 – Jan 2025**
+
+* Developed custom Moodle plugins and themes using PHP, JavaScript, and Moodle APIs.
+* Managed multiple Moodle deployments across concurrent client projects.
+* Owned development from requirements gathering through implementation, delivery, and support.
+* Interviewed, trained, and mentored developers joining the team.
+* Mentored an intern to team-lead level within three months.
 
 ## 🎓 Education
 
-- **Degree:** Bachelor's in Computer Engineering
+**Bachelor's in Computer Engineering**
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-arsalan-2a0096a3/
-
-Let's connect and collaborate on exciting projects! 🚀 Thank you for visiting my GitHub profile!
+* **LinkedIn:** https://www.linkedin.com/in/muhammad-arsalan-2a0096a3/
+* **GitHub:** https://github.com/marsalan828
